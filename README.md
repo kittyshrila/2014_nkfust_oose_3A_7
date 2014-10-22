@@ -26,7 +26,6 @@
 	3.遊戲介面：<br><br>
 		(1)關卡範例：<br>
 <img src="https:images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
-
 		(2)過關畫面：<br>
 <img src="https://images.plurk.com/3mW7rm35Cm0jftYlzjycj1.jpg"><br><br>
 		(3)失敗畫面：<br>
