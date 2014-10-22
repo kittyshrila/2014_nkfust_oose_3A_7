@@ -23,6 +23,9 @@
 <h4>角色：Slipper</h4>
 角色介紹：Pudding的好朋友Slipper不小心被Monster抓走了！Pudding能不能從Monster手中拯舊他呢？
 <br><img src="https://images.plurk.com/5kSpUvReSNcpcp7LXoock0.gif"><br><br>
+<h4>角色：Pinky</h4>
+角色介紹：Monster的好朋友們Pinky幫助Monster佔領地球。
+<br><img src="https://images.plurk.com/1HwucBFCyMEyhFnMnFzvwT.gif"><br><br>
 
 
 	3.遊戲介面：<br><br>
