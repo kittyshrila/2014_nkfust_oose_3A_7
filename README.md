@@ -36,7 +36,7 @@
 角色介紹：擁有「縮小藥水」的神祕人士。
 <br><img src="https://images.plurk.com/4N50Z8s5M22HJBCuLifxGg.gif"><br><br>
 <h4>角色：Mega</h4>
-角色介紹：Gigi的部下，聽從Giga命令行事。
+角色介紹：Gigi的部下，聽從Gigi命令行事。
 <br><img src="https://images.plurk.com/i7wxs4ylu2YdSov6Hp6TA.gif"><br><br>
 
 	3.遊戲介面：<br><br>
