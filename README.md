@@ -27,8 +27,12 @@
 角色介紹：Monster的好朋友們Pinky幫助Monster佔領地球。
 <br><img src="https://images.plurk.com/1HwucBFCyMEyhFnMnFzvwT.gif"><br><br>
 <h4>角色：Loki</h4>
-角色介紹：Monster的首領指揮Monster與Pudding對抗！
+角色介紹：Monster的首領，指揮Monster與Pudding對抗！
 <br><img src="https://images.plurk.com/5bpKvB4NqPGlonej3I2hgF.gif"><br><br>
+<h4>角色：Sticky</h4>
+角色介紹：Monster的援軍，幫助Monster與Pudding對抗！
+<br><img src="https://images.plurk.com/3vYA2eC3KLaUbXK9qPsAlD.jpg"><br><br>
+
 
 	3.遊戲介面：<br><br>
 		(1)關卡範例：<br>
