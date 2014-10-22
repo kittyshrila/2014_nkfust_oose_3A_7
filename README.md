@@ -17,7 +17,6 @@
 <h4>主角：Pudding</h4>
 角色介紹：來自火星的外星人Pudding 想要佔領地球，卻意外和來自冥王星的Monster展開了侵略地球的戰爭！
 <br><img src="https://images.plurk.com/1mOHd8OjINaxbViwc2NrF7.gif"><br><br>
-
 <h4>角色：Monster</h4>
 角色介紹：來自冥王星的外星人們Monster想要佔領地球，卻碰到來自火星的外星人Pudding也想要佔領地球！究竟誰會勝出呢？
 <br><img src="https://images.plurk.com/5wG4m54CNJxA811ehvZgE1.gif"><br><br>
@@ -25,7 +24,7 @@
 
 	3.遊戲介面：<br><br>
 		(1)關卡範例：<br>
-<img src="https:images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
+<img src="https://images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
 		(2)過關畫面：<br>
 <img src="https://images.plurk.com/3mW7rm35Cm0jftYlzjycj1.jpg"><br><br>
 		(3)失敗畫面：<br>
