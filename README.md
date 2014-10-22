@@ -9,8 +9,19 @@
 
 <h2>●專題題目: Pudding Crush</h2>
 
-<h3>●目標:</h3>藉由規劃讓遊戲能更完整，讓大家喜歡這款遊戲。
-<h3>●製作動機:</h3>對於開發遊戲有興趣的我們，決定以消去遊戲的方式做為主題，為了符合創意性，我們結合了外星人佔領地球的故事作為遊戲的規畫主軸，藉此提升玩家興趣。
+<h3>●遊戲內容介紹:</h3>
+	1.主題：以外星人侵略地球為主題，主角Pudding需打敗Monster並救出同伴方可獲勝。
+	2.遊戲介面：<br>
+		(1)關卡範例：<br><img src="https://images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
+		(2)過關畫面：<br><img src="https://images.plurk.com/3mW7rm35Cm0jftYlzjycj1.jpg"><br><br>
+		(3)失敗畫面：<br><img src="https://images.plurk.com/1l8JmbQ8CajO4LIbiRKFyY.jpg"><br><br>
+		(4)其他故事描述：<br><img src="https://images.plurk.com/5zebK6OrU1VU1VuSRhCZuo.jpg"><br><br>
+	
+	
+	
+	
+<h3>●目標:</h3>
+
 
 # 系統分析與設計_遊戲製作計畫 #
 ## by 蘇易莎、謝蕙如 ##
