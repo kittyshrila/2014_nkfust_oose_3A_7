@@ -32,6 +32,9 @@
 <h4>角色：Sticky</h4>
 角色介紹：Monster的援軍，幫助Monster與Pudding對抗！
 <br><img src="https://images.plurk.com/3oTcTY3l399RvNItw1Hpzq.jpg"><br><br>
+<h4>角色：Gigi</h4>
+角色介紹：擁有「縮小藥水」的神祕人士。
+<br><img src="https://images.plurk.com/4N50Z8s5M22HJBCuLifxGg.gif"><br><br>
 
 
 	3.遊戲介面：<br><br>
