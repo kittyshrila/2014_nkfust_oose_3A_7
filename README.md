@@ -1,7 +1,5 @@
 
 # 系統分析與設計_遊戲製作計畫 #
-## by 蘇易莎、謝蕙如 ##
-
 <h1>專題小組 第七組</h1>
 
 組員:
@@ -11,19 +9,33 @@
 0124103 蘇易莎
 
 <h2>●專題題目: Pudding Crush</h2>
+<h3>●目標：遊戲下載次數達到500次</h3>
 
-<h3>●遊戲內容介紹:</h3>
-	1.主題：以外星人侵略地球為主題，主角Pudding需打敗Monster並救出同伴方可獲勝。
-	2.遊戲介面：<br>
-		(1)關卡範例：<br><img src="https://images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
-		(2)過關畫面：<br><img src="https://images.plurk.com/3mW7rm35Cm0jftYlzjycj1.jpg"><br><br>
-		(3)失敗畫面：<br><img src="https://images.plurk.com/1l8JmbQ8CajO4LIbiRKFyY.jpg"><br><br>
-		(4)其他故事描述：<br><img src="https://images.plurk.com/5zebK6OrU1VU1VuSRhCZuo.jpg"><br><br>
+<h3>●遊戲內容介紹:</h3><br>
+	1.主題：以外星人侵略地球為主題，主角Pudding需打敗Monster並救出同伴方可獲勝。<br><br>
+	2.角色介紹：<br><br>
+<h4>主角：Pudding</h4>
+角色介紹：來自火星的外星人Pudding 想要佔領地球，卻意外和來自冥王星的Monster展開了侵略地球的戰爭！
+<br><img src="https://images.plurk.com/1mOHd8OjINaxbViwc2NrF7.gif"><br><br>
+
+<h4>角色：Monster</h4>
+角色介紹：
+<br><img src="https://images.plurk.com/1mOHd8OjINaxbViwc2NrF7.gif"><br><br>
+
+
+	3.遊戲介面：<br><br>
+		(1)關卡範例：<br>
+<img src="https:images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
+
+		(2)過關畫面：<br>
+<img src="https://images.plurk.com/3mW7rm35Cm0jftYlzjycj1.jpg"><br><br>
+		(3)失敗畫面：<br>
+<img src="https://images.plurk.com/1l8JmbQ8CajO4LIbiRKFyY.jpg"><br><br>
+		(4)其他故事描述：<br>
+<img src="https://images.plurk.com/5zebK6OrU1VU1VuSRhCZuo.jpg"><br><br>
 	
 	
-	
-	
-<h3>●目標:</h3>
+
 
 
 <br>
@@ -716,6 +728,13 @@
 
 
 	
+
+
+
+
+
+
+
 
 
 
