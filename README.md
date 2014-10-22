@@ -20,6 +20,9 @@
 <h4>角色：Monster</h4>
 角色介紹：來自冥王星的外星人們Monster想要佔領地球，卻碰到來自火星的外星人Pudding也想要佔領地球！究竟誰會勝出呢？
 <br><img src="https://images.plurk.com/5wG4m54CNJxA811ehvZgE1.gif"><br><br>
+<h4>角色：Slipper</h4>
+角色介紹：Pudding的好朋友Slipper不小心被Monster抓走了！Pudding能不能從Monster手中拯舊他呢？
+<br><img src="https://images.plurk.com/5kSpUvReSNcpcp7LXoock0.gif"><br><br>
 
 
 	3.遊戲介面：<br><br>
