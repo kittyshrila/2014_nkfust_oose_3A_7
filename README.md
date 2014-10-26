@@ -78,7 +78,7 @@ Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，�
 角色：Pudding Monster x 15 Pinky x 5<br>
 勝利條件：10秒內擊敗Monster x 15 Pinky x 5 <br>
 
-<<Monster的強攻>><br>
+<< Monster的強攻>><br>
 場景:草皮<br>
 描述：<br>
 Monster的同伴Sticky對Pudding進行強烈攻擊<br><br>
@@ -94,7 +94,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 角色：Pudding Gigi Mega x 10 <br>
 勝利條件：10秒內擊敗Mega x 10 <br>
 
-<<Monster戰略>><br>
+<< Monster戰略>><br>
 場景:花園<br>
 描述：<br>
 這次Monster將派出大量的士兵包圍Pudding！這次一定可以擊敗Pudding<br><br>
