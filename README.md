@@ -7,6 +7,7 @@
 0124027 謝蕙如
 
 0124103 蘇易莎
+<img src="https://images.plurk.com/MAmguMWc0uqyyxCDYCSyC.jpg">
 
 <h2>●專題題目: Pudding Crush</h2>
 <h3>●目標：遊戲下載次數達到500次</h3>
@@ -33,13 +34,87 @@
 角色介紹：Monster的援軍，幫助Monster與Pudding對抗！
 <br><img src="https://images.plurk.com/3oTcTY3l399RvNItw1Hpzq.jpg"><br><br>
 <h4>角色：Gigi</h4>
-角色介紹：擁有「縮小藥水」的神祕人士。
+角色介紹：指引Pudding去找出「縮小藥水」的神祕人士。
 <br><img src="https://images.plurk.com/4N50Z8s5M22HJBCuLifxGg.gif"><br><br>
 <h4>角色：Mega</h4>
-角色介紹：Gigi的部下，聽從Gigi命令行事。
+角色介紹：居住於仙后座，擁有「縮小藥水」的神祕人士。。
 <br><img src="https://images.plurk.com/i7wxs4ylu2YdSov6Hp6TA.gif"><br><br>
+----------
+3.關卡介紹 <br>
 
-3.遊戲介面：<br><br>
+<<戰爭的開端>><br>
+場景:外太空<br>
+關卡1<br>
+角色：Pudding Monster x 10<br>
+勝利條件：10秒內擊敗Monster x 10<br>
+關卡2<br>
+角色：Pudding Monster x 20<br>
+勝利條件：10秒內擊敗Monster20<br>
+關卡3<br>
+角色：Pudding Monster x 30<br>
+勝利條件：10秒內擊敗Monster x 30<br>
+
+<<拯救好朋友>><br>
+場景:草皮<br>
+描述：<br>
+Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，卻也發現Monster找來了強大的同伴Pinky<br><br>
+關卡4<br>
+角色：Pudding Monster x 10 Pinky x 2<br>
+勝利條件：10秒內擊敗Monster x 10和Pinky x 2<br>
+
+<<體力的補充>><br>
+場景:草皮<br>
+描述：<br>
+為了救出Slipper，Pudding已經流失太多力氣，正準備補充體力時，卻發現Monster把他的提神飲料藏到氣爆迷宮裡去了，如果Pudding沒有在時間內喝到提神飲料，將會活活累死在迷宮裡...<br><br>
+關卡5<br>
+角色：Pudding 提神飲料 x 1 迷宮<br>
+勝利條件：20秒拿到提神飲料<br>
+
+<<遇到陷阱>><br>
+場景:草皮<br>
+描述：<br>
+補充完體力的Pudding正要離開迷宮時，卻發現有一大群Monster跟Pinky對Pudding展開攻擊<br><br>
+關卡6<br>
+角色：Pudding Monster x 15 Pinky x 5<br>
+勝利條件：10秒內擊敗Monster x 15 Pinky x 5<br>
+
+<<Monster的強攻>><br>
+場景:草皮<br>
+描述：<br>
+Monster的同伴Sticky對Pudding進行強烈攻擊<br><br>
+關卡7<br>
+角色：Pudding Sticky x 15<br>
+勝利條件：10秒內擊敗Monster x 15 Pinky x 5<br>
+
+<<預言>><br>
+場景:花園<br>
+描述：<br>
+Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的攻擊，並指引Pudding去仙后座尋找Mega取得"縮小藥水"<br><br>
+關卡8<br>
+角色：Pudding Gigi Mega x 10<br>
+勝利條件：10秒內擊敗Mega x 10<br>
+
+<<Monster戰略>><br>
+場景:花園<br>
+描述：<br>
+這次Monster將派出大量的士兵包圍Pudding！這次一定可以擊敗Pudding<br><br>
+關卡9<br>
+角色：Pudding Monster x 30<br>
+勝利條件：10秒內躲開Monster x 30<br>
+
+<<魔王的挑戰>><br>
+場景:花園<br>
+描述：<br>
+首領得知Pudding已經順利擊敗許多Monster，Loki首領決定親自帶領Monster上戰場！<br><br>
+關卡10<br>
+角色：Pudding Monster x 20 Loki<br>
+勝利條件：Pudding擊敗 Monster x 20 Loki<br>
+<<The End>>
+Pudding成功佔領地球畫面。
+
+
+
+4.遊戲介面：<br><br>
 	 	(1)關卡範例：<br>
 <img src="https://images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
 		(2)過關畫面：<br>
@@ -451,7 +526,7 @@
 八、整個系統之初步類別圖 (by蘇易莎) <br><br>
 <img src="https://images.plurk.com/4KbaawAgLMCpLWilQ8V5bq.jpg"><br><br>
 <br>
-九、主要成功情節 (by謝蕙如) <br><br>            
+九、使用案例主要成功情節之英文名稱事件對應 (by謝蕙如) <br><br>            
 1.「遊戲製作作業」之主要成功情節
 <table style="width:100%">
   <tr>
@@ -536,7 +611,7 @@
   </tr>
 </table>
 <br>
-十、合約<br>
+十、每個名稱事件之合約<br>
 「遊戲製作作業」之合約  (by謝蕙如)<br>
 合約1：set();
 <table style="width:100%">
