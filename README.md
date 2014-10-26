@@ -110,7 +110,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 角色：Pudding Monster x 20 Loki<br>
 勝利條件：Pudding擊敗 Monster x 20 Loki <br>
 
-<<The End>>
+-the end-
 <br>Pudding成功佔領地球畫面。<br>
 
 
