@@ -57,7 +57,7 @@
 <<拯救好朋友>><br>
 場景:草皮<br>
 描述：<br>
-Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，卻也發現Monster找來了強大的同伴Pinky<br><br>
+Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，卻也發現Monster找來了強大的同伴Pinky<br>
 關卡4<br>
 角色：Pudding Monster x 10 Pinky x 2<br>
 勝利條件：10秒內擊敗Monster x 10和Pinky x 2<br>
@@ -65,7 +65,7 @@ Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，�
 <<體力的補充>><br>
 場景:草皮<br>
 描述：<br>
-為了救出Slipper，Pudding已經流失太多力氣，正準備補充體力時，卻發現Monster把他的提神飲料藏到氣爆迷宮裡去了，如果Pudding沒有在時間內喝到提神飲料，將會活活累死在迷宮裡...<br><br>
+為了救出Slipper，Pudding已經流失太多力氣，正準備補充體力時，卻發現Monster把他的提神飲料藏到氣爆迷宮裡去了，如果Pudding沒有在時間內喝到提神飲料，將會活活累死在迷宮裡...<br>
 關卡5<br>
 角色：Pudding 提神飲料 x 1 迷宮<br>
 勝利條件：20秒拿到提神飲料<br>
@@ -109,8 +109,9 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 關卡10<br>
 角色：Pudding Monster x 20 Loki<br>
 勝利條件：Pudding擊敗 Monster x 20 Loki<br>
-<<The End>>
-Pudding成功佔領地球畫面。
+
+<<The End>><br>
+Pudding成功佔領地球畫面。<br>
 
 
 
