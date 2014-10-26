@@ -70,7 +70,7 @@ Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，�
 角色：Pudding 提神飲料 x 1 迷宮<br>
 勝利條件：20秒拿到提神飲料<br>
 
-<<遇到陷阱>><br>
+<<遇到陷阱>>
 場景:草皮<br>
 描述：<br>
 補充完體力的Pudding正要離開迷宮時，卻發現有一大群Monster跟Pinky對Pudding展開攻擊<br><br>
@@ -110,8 +110,8 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 角色：Pudding Monster x 20 Loki<br>
 勝利條件：Pudding擊敗 Monster x 20 Loki <br>
 
-<<The End>><br>
-Pudding成功佔領地球畫面。<br>
+<<The End>>
+<br>Pudding成功佔領地球畫面。<br>
 
 
 
