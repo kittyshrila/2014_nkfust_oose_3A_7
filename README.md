@@ -21,7 +21,7 @@
 角色介紹：來自冥王星的外星人們Monster想要佔領地球，卻碰到來自火星的外星人Pudding也想要佔領地球！究竟誰會勝出呢？
 <br><img src="https://images.plurk.com/5wG4m54CNJxA811ehvZgE1.gif"><br><br>
 <h4>角色：Slipper</h4>
-角色介紹：Pudding的好朋友Slipper不小心被Monster抓走了！Pudding能不能從Monster手中拯舊他呢？
+角色介紹：Pudding的好朋友Slipper不小心被Monster抓走了！Pudding能不能從Monster手中拯救他呢？
 <br><img src="https://images.plurk.com/5kSpUvReSNcpcp7LXoock0.gif"><br><br>
 <h4>角色：Pinky</h4>
 角色介紹：Monster的好朋友們Pinky幫助Monster佔領地球。
@@ -39,8 +39,8 @@
 角色介紹：Gigi的部下，聽從Gigi命令行事。
 <br><img src="https://images.plurk.com/i7wxs4ylu2YdSov6Hp6TA.gif"><br><br>
 
-	3.遊戲介面：<br><br>
-		(1)關卡範例：<br>
+3.遊戲介面：<br><br>
+	 	(1)關卡範例：<br>
 <img src="https://images.plurk.com/5YJvzrYEHUFcEsjbzjWi6d.jpg"><br><br>
 		(2)過關畫面：<br>
 <img src="https://images.plurk.com/3mW7rm35Cm0jftYlzjycj1.jpg"><br><br>
@@ -437,20 +437,19 @@
 
 七、每個使用案例的初步類別圖 (by蘇易莎) <br><br>
 ●「遊戲製作作業」之初步類別圖<br>
-<img src="https://images.plurk.com/4mQbHIFuakhUqdWk3C1O3w.jpg"><br><br>
+<img src="https://images.plurk.com/3H1P5fpWb6v2cBaeCVmgQc.jpg"><br><br>
 
 ●「遊戲更新作業」之初步類別圖<br>
-<img src="https://images.plurk.com/1sRGC1cqUuTZ3iLUjHje9c.jpg"><br><br>
+<img src="https://images.plurk.com/4u0M42FdTtYgACXYbUZYUd.jpg"><br><br>
 
 ●「安全性維護作業」之初步類別圖<br>
-<img src="https://images.plurk.com/1sRGC1cqUuTZ3iLUjHje9c.jpg"><br><br>
+<img src="https://images.plurk.com/2dI9K5kHsPaXVJa1hXtaCa.jpg"><br><br>
 
 ●「玩家喜好分析作業」之初步類別圖<br>
-<img src="https://images.plurk.com/5wMcBKdbmQOwqOZtkaflfL.jpg"><br><br>
+<img src="https://images.plurk.com/3H1P5fpWb6v2cBaeCVmgQc.jpg"><br><br>
 
 八、整個系統之初步類別圖 (by蘇易莎) <br><br>
-<img src="https://images.plurk.com/7HjoLTgyzZnmvBmiT9UR2A.jpg"><br><br>
-
+<img src="https://images.plurk.com/4KbaawAgLMCpLWilQ8V5bq.jpg"><br><br>
 <br>
 九、主要成功情節 (by謝蕙如) <br><br>            
 1.「遊戲製作作業」之主要成功情節
@@ -473,13 +472,13 @@
 
 	</td>
        <td> <br><br><br><br><br><br><br><br><br>
-			set(object,rule,mission)<br><br><br>
-			gamestart(start,help)<br>
-			actionmove(up,down,left,right)<br><br>
-			against(won,lose)<br><br><br><br>
-			test()<br><br>
-			checkgame()<br><br>
-			download()<br><br>
+			set(object,rule,mission);<br><br><br>
+			gamestart(start,help);<br>
+			actionmove(up,down,left,right);<br><br>
+			against(won,lose);<br><br><br><br>
+			test();<br><br>
+			checkgame();<br><br>
+			download();<br><br>
 	</td>
     
   </tr>
@@ -498,8 +497,8 @@
 		3.更新完成。<br><br>
 
 	</td>
-       <td> informplayer()<br><br>
-			update()
+       <td> informplayer();<br><br>
+			update();
 	</td>
   </tr>
 </table>
@@ -514,9 +513,9 @@
 		2.當遊戲本身發生異常時，則進入安全性維護作業，進行安全性檢查並公告進行修護。
 	</td>
        <td> 
-			<br><br>strangefound(playerfault,systemfault)<br><br>
-			informplayer()<br><br>
-			securitycheck()<br><br>
+			<br><br>strangefound(playerfault,systemfault);<br><br>
+			informplayer();<br><br>
+			securitycheck();<br><br>
 	</td>
   </tr>
 </table>
@@ -531,21 +530,21 @@
 		2.提供數據供遊戲管理者或開發者參考，使遊戲更符合玩家喜好。
 	</td>
        <td> 
-			survey(googlequestionaire,record)<br><br>
-			conclusion()
+			survey(googlequestionaire,record);<br><br>
+			conclusion();
 	</td>
   </tr>
 </table>
 <br>
 十、合約<br>
 「遊戲製作作業」之合約  (by謝蕙如)<br>
-合約1：set()合約
+合約1：set();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約1：set()合約</td> 
+    <td colspan=2>合約1：set();合約</td> 
   </tr>
   <tr>
-	 <td>操作：set(object,rule,mission)<br>
+	 <td>操作：set(object,rule,mission);<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：規劃好遊戲主題、物件、規則、關卡<br>
 		後置條件：實際用軟體製作出來<br>
@@ -553,176 +552,176 @@
 </tr>
 </table>
 
-合約2：gamestart()
+合約2：gamestart();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約2：gamestart() </td> 
+    <td colspan=2>合約2：gamestart(); </td> 
   </tr>
   <tr>
-	 <td>操作：gamestart(start,help)<br>
+	 <td>操作：gamestart(start,help);<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例object,rule,mission<br>
-		後置條件：-設定出gamestart(start,help)之條件。<br>
+		後置條件：-設定出gamestart(start,help);之條件。<br>
 		</td>
 </tr>
 </table>
-合約3：actionmove()
+合約3：actionmove();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約1：actionmove() </td> 
+    <td colspan=2>合約1：actionmove(); </td> 
   </tr>
   <tr>
-	 <td>操作：actionmove(up,down,left,right)<br>
+	 <td>操作：actionmove(up,down,left,right);<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例rule<br>
-		後置條件：依照所設定的rule，執行actionmove(up,down,left,right)<br>
+		後置條件：依照所設定的rule，執行actionmove(up,down,left,right);<br>
 		</td>
 </tr>
 </table>
-合約4：against()
+合約4：against();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約4：against() </td> 
+    <td colspan=2>合約4：against(); </td> 
   </tr>
   <tr>
-	 <td>操作：against(won,lose)<br>
+	 <td>操作：against(won,lose);<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例rule<br>
-		後置條件：依照所設定的rule，執行against(won,lose)<br>
+		後置條件：依照所設定的rule，執行against(won,lose);<br>
 		</td>
 </tr>
 </table>
-合約5：test()
+合約5：test();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約5：test() </td> 
+    <td colspan=2>合約5：test(); </td> 
   </tr>
   <tr>
 	 <td>操作：test()<br>
 		交互參照：遊戲製作作業<br>
-		前置條件：依據set(object,rule,mission)、gamestart(start,help)、actionmove(up,down,left,right)、against(won,lose)來進行test()<br>
-		後置條件：執行test(),並確認是否有無錯誤環節。<br>
+		前置條件：依據set(object,rule,mission);、gamestart(start,help);、actionmove(up,down,left,right);、against(won,lose);來進行test();<br>
+		後置條件：執行test();,並確認是否有無錯誤環節。<br>
 		</td>
 </tr>
 </table>
-合約6：checkgame()
+合約6：checkgame();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約6：checkgame() </td> 
+    <td colspan=2>合約6：checkgame(); </td> 
   </tr>
   <tr>
-	 <td>操作：checkgame()<br>
+	 <td>操作：checkgame();<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例<br>
-		後置條件：將test()中發現的錯誤環節，進行checkgame()。<br>
+		後置條件：將test();中發現的錯誤環節，進行checkgame();。<br>
 		</td>
 </tr>
 </table>
-合約7：download()
+合約7：download();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約7：download() </td> 
+    <td colspan=2>合約7：download(); </td> 
   </tr>
   <tr>
-	 <td>操作：download()<br>
+	 <td>操作：download();<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：將遊戲製作完並修正完整。<br>
-		後置條件：正式提供玩家download()<br>
+		後置條件：正式提供玩家download();<br>
 		</td>
 </tr>
 </table>
 「遊戲更新作業」之合約  (by謝蕙如)<br>
-合約1：imformplayer()
+合約1：imformplayer();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約1：imformplayer() </td> 
+    <td colspan=2>合約1：imformplayer(); </td> 
   </tr>
   <tr>
-	 <td>操作：imformplayer()<br>
+	 <td>操作：imformplayer();<br>
 		交互參照：遊戲更新作業<br>
-		前置條件：在update()之前先imformplayer()<br>
-		後置條件：-imformplayer()後再進行update()<br>
+		前置條件：在update();之前先imformplayer();<br>
+		後置條件：-imformplayer();後再進行update();<br>
 		</td>
 </tr>
 </table>
-合約2：update()
+合約2：update();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約2：iupdate() </td> 
+    <td colspan=2>合約2：iupdate(); </td> 
   </tr>
   <tr>
-	 <td>操作：imformplayer()<br>
+	 <td>操作：imformplayer();<br>
 		交互參照：遊戲更新作業<br>
-		前置條件：存在informplayer()之實例<br>
-		後置條件：進行update()<br>
+		前置條件：存在informplayer();之實例<br>
+		後置條件：進行update();<br>
 		</td>
 </tr>
 </table>
 「安全性維護作業」之合約  (by蘇易莎)<br>
 </table>
-合約1：strangefound()
+合約1：strangefound();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約1：strangefound() </td> 
+    <td colspan=2>合約1：strangefound(); </td> 
   </tr>
   <tr>
-	 <td>操作：strangefound(playerfault,systemfault)<br>
+	 <td>操作：strangefound(playerfault,systemfault);<br>
 		交互參照：安全性維護作業<br>
-		前置條件：在系統端發現strangefound(playerfault,systemfault)<br>
-		後置條件：-若為玩家所為則informplayer(),若是系統本身的問題則securitycheck()<br>
+		前置條件：在系統端發現strangefound(playerfault,systemfault);<br>
+		後置條件：-若為玩家所為則informplayer();,若是系統本身的問題則securitycheck();<br>
 		</td>
 </tr>
 </table>
-合約2：informplayer()
+合約2：informplayer();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約2：informplayer() </td> 
+    <td colspan=2>合約2：informplayer(); </td> 
   </tr>
   <tr>
-	 <td>操作：informplayer()<br>
+	 <td>操作：informplayer();<br>
 		交互參照：安全性維護作業<br>
-		前置條件：在系統端發現strangefound(playerfault,systemfault)，並確認為玩家所為。<br>
-		後置條件：執行informplayer()<br>
+		前置條件：在系統端發現strangefound(playerfault,systemfault);，並確認為玩家所為。<br>
+		後置條件：執行informplayer();<br>
 		</td>
 </tr>
 </table>
-合約3：securitycheck()
+合約3：securitycheck();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約3：securitycheck() </td> 
+    <td colspan=2>合約3：securitycheck(); </td> 
   </tr>
   <tr>
-	 <td>操作：securitycheck()<br>
+	 <td>操作：securitycheck();<br>
 		交互參照：安全性維護作業<br>
-		前置條件：在系統端發現strangefound(playerfault,systemfault)，並確認為系統所為。<br>
-		後置條件：執行securitycheck()<br>
+		前置條件：在系統端發現strangefound(playerfault,systemfault);，並確認為系統所為。<br>
+		後置條件：執行securitycheck();<br>
 		</td>
 </tr>
 </table>
 「玩家喜好分析」之合約  (by蘇易莎)<br>
-合約1：survey()
+合約1：survey();
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約1：survey()</td> 
+    <td colspan=2>合約1：survey();</td> 
   </tr>
   <tr>
-	 <td>操作：survey(googlequestionaire,record)<br>
+	 <td>操作：survey(googlequestionaire,record);<br>
 		交互參照：安全性維護作業<br>
 		前置條件：遊戲開發者發放googlequestionaire或參考玩家record<br>
-		後置條件：進行分析survey(googlequestionaire,record)<br>
+		後置條件：進行分析survey(googlequestionaire,record);<br>
 		</td>
 </tr>
 </table>
 合約2：conclusion()
 <table style="width:100%">
   <tr>
-    <td colspan=2>合約2：conclusion()</td> 
+    <td colspan=2>合約2：conclusion();</td> 
   </tr>
   <tr>
-	 <td>操作：conclusion()<br>
+	 <td>操作：conclusion();<br>
 		交互參照：安全性維護作業<br>
 		前置條件：存在survey之實例googlequestionaire、record<br>
-		後置條件：依據survey(googlequestionaire,record)進行conclusion()。<br>
+		後置條件：依據survey(googlequestionaire,record)進行conclusion();。<br>
 		</td>
 </tr>
 </table>
