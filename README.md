@@ -76,31 +76,31 @@ Pudding的好朋友Slipper被Monster抓走了，Pudding在拯救他的同時，�
 補充完體力的Pudding正要離開迷宮時，卻發現有一大群Monster跟Pinky對Pudding展開攻擊<br><br>
 關卡6<br>
 角色：Pudding Monster x 15 Pinky x 5<br>
-勝利條件：10秒內擊敗Monster x 15 Pinky x 5<br>
+勝利條件：10秒內擊敗Monster x 15 Pinky x 5 <br>
 
 <<Monster的強攻>><br>
 場景:草皮<br>
 描述：<br>
 Monster的同伴Sticky對Pudding進行強烈攻擊<br><br>
 關卡7<br>
-角色：Pudding Sticky x 15<br>
-勝利條件：10秒內擊敗Monster x 15 Pinky x 5<br>
+角色：Pudding Sticky x 15 <br>
+勝利條件：10秒內擊敗Monster x 15 Pinky x 5 <br>
 
 <<預言>><br>
 場景:花園<br>
 描述：<br>
 Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的攻擊，並指引Pudding去仙后座尋找Mega取得"縮小藥水"<br><br>
 關卡8<br>
-角色：Pudding Gigi Mega x 10<br>
-勝利條件：10秒內擊敗Mega x 10<br>
+角色：Pudding Gigi Mega x 10 <br>
+勝利條件：10秒內擊敗Mega x 10 <br>
 
 <<Monster戰略>><br>
 場景:花園<br>
 描述：<br>
 這次Monster將派出大量的士兵包圍Pudding！這次一定可以擊敗Pudding<br><br>
 關卡9<br>
-角色：Pudding Monster x 30<br>
-勝利條件：10秒內躲開Monster x 30<br>
+角色：Pudding Monster x 30 <br>
+勝利條件：10秒內躲開Monster x 30 <br>
 
 <<魔王的挑戰>><br>
 場景:花園<br>
@@ -108,7 +108,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 首領得知Pudding已經順利擊敗許多Monster，Loki首領決定親自帶領Monster上戰場！<br><br>
 關卡10<br>
 角色：Pudding Monster x 20 Loki<br>
-勝利條件：Pudding擊敗 Monster x 20 Loki<br>
+勝利條件：Pudding擊敗 Monster x 20 Loki <br>
 
 <<The End>><br>
 Pudding成功佔領地球畫面。<br>
