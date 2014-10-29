@@ -10,7 +10,7 @@
 <img src="https://images.plurk.com/MAmguMWc0uqyyxCDYCSyC.jpg">
 
 <h2>●專題題目: Pudding Crush</h2>
-<h3>●目標：</h3>
+    ●目標：
 	   ●製作出具外太空為主題的遊戲<br>
 	   ●能隨時更新關卡<br>
    	   ●希望遊戲不易被入侵及破壞<br>
