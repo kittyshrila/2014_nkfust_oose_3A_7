@@ -393,15 +393,15 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   </tr>
   <tr>
     <td>使用案例描述</td>
-    <td colspan=2>遊戲開發者對玩家進行問卷調查或是從玩家的遊戲紀錄中進行分析，並了解玩家喜好，以供遊戲參考或更新。</td>    
+    <td colspan=2>遊戲管理者對玩家進行問卷調查或是從玩家的遊戲紀錄中進行分析，並了解玩家喜好，以供遊戲參考或更新。</td>    
   </tr>
   <tr>
     <td>主要參與者</td>
-    <td colspan=2>遊戲開發者。</td>    
+    <td colspan=2>遊戲管理者。</td>    
   </tr>
   <tr>
     <td>利害關係人與目標</td>
-    <td colspan=2>遊戲開發者：增加遊戲銷售量。</td>    
+    <td colspan=2>遊戲管理者：增加遊戲銷售量。</td>    
   </tr>
   <tr>
     <td>前置條件</td>
@@ -426,12 +426,12 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     </td>
   </tr>
   <tr>
-    <td>1.遊戲開發者為了解玩家喜好，定期對玩家進行喜好分析。<br><br>
-		2.遊戲開發者改善其遊戲內容。<br><br>
+    <td>1.遊戲管理者為了解玩家喜好，定期對玩家進行喜好分析。<br><br>
+		2.遊戲管理者改善其遊戲內容。<br><br>
     </td>
-    <td>1.1 遊戲開發者建立Google問卷表單，對玩家進行調查，並分析其結果。<br><br>
+    <td>1.1 遊戲管理者建立Google問卷表單，對玩家進行調查，並分析其結果。<br><br>
 		1.2 利用遊戲紀錄的數據，了解玩家偏好，進行分析。<br><br>
-		2.1 提供數據供遊戲管理者或開發者參考，使遊戲更符合玩家需求。<br><br>
+		2.1 提供數據供遊戲開發者參考，使遊戲更符合玩家需求。<br><br>
     </td>
   </tr>
   <tr>
@@ -606,8 +606,8 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   </tr>
   <tr>
     <td>主要成功情節：<br><br>
-		1.遊戲開發者建立Google問卷表單，對玩家進行調查，或利用遊戲紀錄的數據，了解玩家偏好，進行分析。<br><br>
-		2.提供數據供遊戲管理者或開發者參考，使遊戲更符合玩家喜好。
+		1.遊戲管理者建立Google問卷表單，對玩家進行調查，或利用遊戲紀錄的數據，了解玩家偏好，進行分析。<br><br>
+		2.提供數據供遊戲開發者參考，使遊戲更符合玩家喜好。
 	</td>
        <td> 
 			survey(googlequestionaire,record);<br><br>
@@ -787,7 +787,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   <tr>
 	 <td>操作：survey(googlequestionaire,record);<br>
 		交互參照：安全性維護作業<br>
-		前置條件：遊戲開發者發放googlequestionaire或參考玩家record<br>
+		前置條件：遊戲管理者發放googlequestionaire或參考玩家record<br>
 		後置條件：進行分析survey(googlequestionaire,record);<br>
 		</td>
 </tr>
