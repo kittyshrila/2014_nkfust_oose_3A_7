@@ -529,7 +529,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 <img src="https://images.plurk.com/3H1P5fpWb6v2cBaeCVmgQc.jpg"><br><br>
 
 八、整個系統之初步類別圖 (by蘇易莎) <br><br>
-<img src="https://images.plurk.com/4KbaawAgLMCpLWilQ8V5bq.jpg"><br><br>
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-6A2F7.png"><br><br>
 <br>
 九、使用案例主要成功情節之英文名稱事件對應 (by謝蕙如) <br><br>            
 1.「遊戲製作作業」之主要成功情節
