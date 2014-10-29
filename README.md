@@ -178,7 +178,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 
 <br>
 三、使用案例圖 (by蘇易莎) <br><br>
-<img src="https://images.plurk.com/2IJNAa5ZAzi2n7Ry3mle6f.jpg">
+<img src="https://cacoo.com/diagrams/QDswZZrTD3wrMA2d-A07B4.png">
 <br><br>
 四、個別使用案例的描述<br>
 
