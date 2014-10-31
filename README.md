@@ -520,10 +520,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-81B3A.png"><br><br>
 
 ●「遊戲更新作業」之初步類別圖<br>
-<img src="https://images.plurk.com/4u0M42FdTtYgACXYbUZYUd.jpg"><br><br>
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-1169D.png"><br><br>
 
 ●「安全性維護作業」之初步類別圖<br>
-<img src="https://images.plurk.com/2dI9K5kHsPaXVJa1hXtaCa.jpg"><br><br>
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-65281.png"><br><br>
 
 ●「玩家喜好分析作業」之初步類別圖<br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-9A5E9.png"><br><br>
