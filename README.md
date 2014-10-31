@@ -517,7 +517,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 
 七、每個使用案例的初步類別圖 (by蘇易莎) <br><br>
 ●「遊戲製作作業」之初步類別圖<br>
-<img src="https://images.plurk.com/3H1P5fpWb6v2cBaeCVmgQc.jpg"><br><br>
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-81B3A.png"><br><br>
 
 ●「遊戲更新作業」之初步類別圖<br>
 <img src="https://images.plurk.com/4u0M42FdTtYgACXYbUZYUd.jpg"><br><br>
@@ -526,7 +526,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 <img src="https://images.plurk.com/2dI9K5kHsPaXVJa1hXtaCa.jpg"><br><br>
 
 ●「玩家喜好分析作業」之初步類別圖<br>
-<img src="https://images.plurk.com/3H1P5fpWb6v2cBaeCVmgQc.jpg"><br><br>
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-9A5E9.png"><br><br>
 
 八、整個系統之初步類別圖 (by蘇易莎) <br><br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-6A2F7.png"><br><br>
