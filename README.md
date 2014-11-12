@@ -552,10 +552,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 
 	</td>
        <td> <br><br><br><br><br><br><br><br><br>
-			set(object,rule,mission);<br><br><br>
-			gamestart(start,help);<br>
-			actionmove(up,down,left,right);<br><br>
-			against(won,lose);<br><br><br><br>
+			set(object：active,rule：active,mission：active)：active;<br><br><br>
+			gamestart(start：button,help：button)：button;<br>
+			actionmove(up：key,down：key,left：key,right：key)：key;<br><br>
+			against(won：result,lose：result)：result;<br><br><br><br>
 			test();<br><br>
 			checkgame();<br><br>
 			download();<br><br>
@@ -593,7 +593,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 		2.當遊戲本身發生異常時，則進入安全性維護作業，進行安全性檢查並公告進行修護。
 	</td>
        <td> 
-			<br><br>strangefound(playerfault,systemfault);<br><br>
+			<br><br>strangefound(playerfault：playerfault,systemfault：strange);<br><br>
 			informplayer();<br><br>
 			securitycheck();<br><br>
 	</td>
@@ -610,7 +610,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 		2.提供數據供遊戲開發者參考，使遊戲更符合玩家喜好。
 	</td>
        <td> 
-			survey(googlequestionaire,record);<br><br>
+			survey(googlequestionaire：survey,record：survey)：survey;<br><br>
 			conclusion();
 	</td>
   </tr>
@@ -624,7 +624,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     <td colspan=2>合約1：set();合約</td> 
   </tr>
   <tr>
-	 <td>操作：set(object,rule,mission);<br>
+	 <td>操作：set(object：active,rule：active,mission：active)：active;<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：規劃好遊戲主題、物件、規則、關卡<br>
 		後置條件：實際用軟體製作出來<br>
@@ -638,10 +638,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     <td colspan=2>合約2：gamestart(); </td> 
   </tr>
   <tr>
-	 <td>操作：gamestart(start,help);<br>
+	 <td>操作：gamestart(start：button,help：button)：button;<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例object,rule,mission<br>
-		後置條件：-設定出gamestart(start,help);之條件。<br>
+		後置條件：-設定出gamestart(start：button,help：button)：button;之條件。<br>
 		</td>
 </tr>
 </table>
@@ -651,10 +651,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     <td colspan=2>合約1：actionmove(); </td> 
   </tr>
   <tr>
-	 <td>操作：actionmove(up,down,left,right);<br>
+	 <td>操作：actionmove(up：key,down：key,left：key,right：key)：key;<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例rule<br>
-		後置條件：依照所設定的rule，執行actionmove(up,down,left,right);<br>
+		後置條件：依照所設定的rule，執行actionmove(up：key,down：key,left：key,right：key)：key;<br>
 		</td>
 </tr>
 </table>
@@ -664,10 +664,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     <td colspan=2>合約4：against(); </td> 
   </tr>
   <tr>
-	 <td>操作：against(won,lose);<br>
+	 <td>操作：against(won：result,lose：result)：result;<br>
 		交互參照：遊戲製作作業<br>
 		前置條件：存在set之實例rule<br>
-		後置條件：依照所設定的rule，執行against(won,lose);<br>
+		後置條件：依照所設定的rule，執行against(won：result,lose：result)：result;<br>
 		</td>
 </tr>
 </table>
@@ -679,7 +679,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   <tr>
 	 <td>操作：test()<br>
 		交互參照：遊戲製作作業<br>
-		前置條件：依據set(object,rule,mission);、gamestart(start,help);、actionmove(up,down,left,right);、against(won,lose);來進行test();<br>
+		前置條件：依據set(object：active,rule：active,mission：active);、gamestart(start：button,help：button)：button;、actionmove(up：key,down：key,left：key,right：key)：key;、against(won：result,losewon：result)won：result;來進行test();<br>
 		後置條件：執行test();,並確認是否有無錯誤環節。<br>
 		</td>
 </tr>
@@ -720,7 +720,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 	 <td>操作：imformplayer();<br>
 		交互參照：遊戲更新作業<br>
 		前置條件：在update();之前先imformplayer();<br>
-		後置條件：-imformplayer();後再進行update();<br>
+		後置條件：imformplayer();後再進行update();<br>
 		</td>
 </tr>
 </table>
@@ -745,9 +745,9 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     <td colspan=2>合約1：strangefound(); </td> 
   </tr>
   <tr>
-	 <td>操作：strangefound(playerfault,systemfault);<br>
+	 <td>操作：strangefound(playerfault：strange,systemfault：strange)：strange;<br>
 		交互參照：安全性維護作業<br>
-		前置條件：在系統端發現strangefound(playerfault,systemfault);<br>
+		前置條件：在系統端發現strangefound(playerfault：strange,systemfault：strange)：strange;<br>
 		後置條件：-若為玩家所為則informplayer();,若是系統本身的問題則securitycheck();<br>
 		</td>
 </tr>
@@ -760,7 +760,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   <tr>
 	 <td>操作：informplayer();<br>
 		交互參照：安全性維護作業<br>
-		前置條件：在系統端發現strangefound(playerfault,systemfault);，並確認為玩家所為。<br>
+		前置條件：在系統端發現strangefound(playerfault：strange,systemfault：strange)：strange;，並確認為玩家所為。<br>
 		後置條件：執行informplayer();<br>
 		</td>
 </tr>
@@ -773,7 +773,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   <tr>
 	 <td>操作：securitycheck();<br>
 		交互參照：安全性維護作業<br>
-		前置條件：在系統端發現strangefound(playerfault,systemfault);，並確認為系統所為。<br>
+		前置條件：在系統端發現strangefound(playerfault：strange,systemfault：strange)：strange;，並確認為系統所為。<br>
 		後置條件：執行securitycheck();<br>
 		</td>
 </tr>
@@ -785,10 +785,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
     <td colspan=2>合約1：survey();</td> 
   </tr>
   <tr>
-	 <td>操作：survey(googlequestionaire,record);<br>
+	 <td>操作：survey(googlequestionaire：survey,record：survey)：survey;<br>
 		交互參照：安全性維護作業<br>
 		前置條件：遊戲管理者發放googlequestionaire或參考玩家record<br>
-		後置條件：進行分析survey(googlequestionaire,record);<br>
+		後置條件：進行分析survey(googlequestionaire：survey,record：survey)：survey;<br>
 		</td>
 </tr>
 </table>
@@ -801,7 +801,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 	 <td>操作：conclusion();<br>
 		交互參照：安全性維護作業<br>
 		前置條件：存在survey之實例googlequestionaire、record<br>
-		後置條件：依據survey(googlequestionaire,record)進行conclusion();。<br>
+		後置條件：依據survey(googlequestionaire：survey,record：survey)：survey;進行conclusion();。<br>
 		</td>
 </tr>
 </table>
