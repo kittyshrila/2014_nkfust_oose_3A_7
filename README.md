@@ -829,16 +829,16 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 </table>
 十三、使用案例之系統循序圖 (by蘇易莎)<br>
 1.「遊戲製作作業」之系統循序圖<br><br>
-<img src="https://images.plurk.com/4GTqP8jZxwFA2Fmw8zyBM4.jpg">
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-D2D96.png">
 <br><br>
 2.「遊戲更新作業」之系統循序圖<br><br>
-<img src="https://images.plurk.com/5YXu6kBAK2d6OOTffBolHe.jpg">
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-538E9.png">
 <br><br>
 3.「安全性維護作業」之系統循序圖<br><br>
-<img src="https://images.plurk.com/7l5kcbT7wLjoYlUXO4E7AZ.jpg">
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-3AFB8.png">
 <br><br>
 4.「玩家喜好分析」之系統循序圖<br><br>
-<img src="https://images.plurk.com/62KG4C0tHIu2PY0dEEWyD.jpg">
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-7FF5B.png">
 <br><br>
 
 
