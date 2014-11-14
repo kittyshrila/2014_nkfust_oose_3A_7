@@ -7,7 +7,7 @@
 0124027 謝蕙如
 
 0124103 蘇易莎
-<img src="https://images.plurk.com/2x5gp8dibcCXPSD2Kgx0iw.jpg">
+<img src="https://images.plurk.com/YaARK2mKNosH4WYGixpSD.jpg">
 
 <h2>●專題題目: Pudding Crush</h2>
     ●目標：
