@@ -7,7 +7,7 @@
 0124027 謝蕙如
 
 0124103 蘇易莎
-<img src="https://images.plurk.com/4qqjn9K7fvUvXoJpiUEjfy.jpg">
+<img src="https://images.plurk.com/2x5gp8dibcCXPSD2Kgx0iw.jpg">
 
 <h2>●專題題目: Pudding Crush</h2>
     ●目標：
@@ -536,7 +536,10 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 ●「玩家喜好分析作業」之初步類別圖<br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-9A5E9.png"><br><br>
 
-九、每個使用案例的強韌圖 (by謝蕙如)<br><br>
+九、整個系統之初步類別圖_集中 (by蘇易莎) <br><br>
+<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-6A2F7.png"><br><br>
+<br>
+十、每個使用案例的強韌圖 (by謝蕙如)<br><br>
 ●「遊戲製作作業」之強韌圖<br>
 <img src="https://cacoo.com/diagrams/TOlAZOqxCrCMMeQP-6F8A0.png"><br><br>
 ●「遊戲更新作業」之強韌圖<br>
@@ -549,9 +552,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 
 
 
-十、整個系統之初步類別圖 (by蘇易莎) <br><br>
-<img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-6A2F7.png"><br><br>
-<br>
+
 十一、使用案例主要成功情節之英文名稱事件對應 (by謝蕙如) <br><br>            
 1.「遊戲製作作業」之主要成功情節
 <table style="width:100%">
