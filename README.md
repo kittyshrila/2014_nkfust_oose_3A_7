@@ -7,10 +7,11 @@
 0124027 謝蕙如
 
 0124103 蘇易莎
-<h3 align="center">目錄</h3>
+<h3 align="center">目錄</h3><br>
 <a href="#pr">前言</a><br>
 <a href="#ch1">一、利害關係人目標表 (by謝蕙如)</a><br>
 <a href="#ch2">二、事件與使用案例表 (by謝蕙如)</a><br>
+<a href="#ch3">三、使用案例圖 (by蘇易莎)</a><br>
 
 
 <img src="https://images.plurk.com/3ppkilJfSNoBUQugMMIolh.jpg">
@@ -183,7 +184,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 </table>
 
 <br>
-三、使用案例圖 (by蘇易莎) <br><br>
+<h4 id="ch3">三、使用案例圖 (by蘇易莎) </h4><br><br>
 <img src="https://cacoo.com/diagrams/QDswZZrTD3wrMA2d-A07B4.png">
 <br><br>
 四、個別使用案例的描述<br>
