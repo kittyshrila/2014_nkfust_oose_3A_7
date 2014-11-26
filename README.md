@@ -655,7 +655,7 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
   </tr>
 </table>
 <br>
-<h4 id="ch12">十二、每個名事稱件之合約 (by謝蕙如、蘇易莎) </h4> <br><br>
+<h4 id="ch12">十二、每個名稱事件之合約 (by謝蕙如、蘇易莎) </h4> <br><br>
 「遊戲製作作業」之合約  (by謝蕙如)<br>
 合約1：set();
 <table style="width:100%">
