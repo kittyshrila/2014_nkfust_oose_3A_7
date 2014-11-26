@@ -25,7 +25,7 @@
 <a href="#ch13">十三、使用案例之系統循序圖 (by蘇易莎)</a><br>
 
 
-<h2 id="pr">●專題題目: Pudding Crush</h2> &nbsp; <a href="#content">回目錄</a>
+<h2 id="pr">●專題題目: Pudding Crush</h2>
     ●目標：
 	   ●製作出具外太空為主題的遊戲  
 	   ●能隨時更新關卡
@@ -144,10 +144,8 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 <img src="https://images.plurk.com/1l8JmbQ8CajO4LIbiRKFyY.jpg"><br><br>
 		(4)其他故事描述：<br>
 <img src="https://images.plurk.com/5zebK6OrU1VU1VuSRhCZuo.jpg"><br><br>
-	
-	
 
-
+<a href="#content">回目錄</a>
 
 <br>
 <h4 id="ch1">一、利害關係人目標表 (by謝蕙如)</h4> <br><br>
