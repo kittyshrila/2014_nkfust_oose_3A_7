@@ -7,7 +7,8 @@
 0124027 謝蕙如
 
 0124103 蘇易莎<br><br>
-<font color="#1E90FF" size="40pt">目錄</font><br>
+
+<h3 id="content">目錄<h3>
 <a href="#pr">前言</a><br>
 <a href="#ch1">一、利害關係人目標表 (by謝蕙如)</a><br>
 <a href="#ch2">二、事件與使用案例表 (by謝蕙如)</a><br>
@@ -23,9 +24,8 @@
 <a href="#ch12">十二、每個名稱事件之合約 (by謝蕙如、蘇易莎)</a><br>
 <a href="#ch13">十三、使用案例之系統循序圖 (by蘇易莎)</a><br>
 
-<img src="https://images.plurk.com/3ppkilJfSNoBUQugMMIolh.jpg">
 
-<h2 id="pr">●專題題目: Pudding Crush</h2>
+<h2 id="pr">●專題題目: Pudding Crush</h2> <a href="#content">回目錄</a>
     ●目標：
 	   ●製作出具外太空為主題的遊戲  
 	   ●能隨時更新關卡
