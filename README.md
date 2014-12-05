@@ -569,6 +569,8 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 <img src="https://cacoo.com/diagrams/TOlAZOqxCrCMMeQP-9C6AE.png"><br><br>
 ●「玩家喜好分析作業」之強韌圖<br>
 <img src="https://cacoo.com/diagrams/TOlAZOqxCrCMMeQP-3A567.png"><br><br>
+●「整個系統」之強韌圖<br>
+<img src="https://cacoo.com/diagrams/TOlAZOqxCrCMMeQP-2F034.png"><br><br>
 <a href="#content">回目錄</a><br>
 
 <h4 id="ch11">十一、使用案例主要成功情節之英文名稱事件對應 (by謝蕙如) </h4> <br><br>    
@@ -849,18 +851,25 @@ Pudding突然遇到一位神秘人士Gigi，預言Pudding將會面臨巨大的�
 </table>
 <a href="#content">回目錄</a><br>
 
-<h4 id="ch13">十三、使用案例之系統循序圖 (by蘇易莎)</h4> <br><br>
-1.「遊戲製作作業」之系統循序圖<br><br>
+<h4 id="ch13">十三、使用案例之循序圖 (by蘇易莎)</h4> <br><br>
+1.「遊戲製作作業」之循序圖<br><br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-D2D96.png">
 <br><br>
-2.「遊戲更新作業」之系統循序圖<br><br>
+2.「遊戲更新作業」之循序圖<br><br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-538E9.png">
 <br><br>
-3.「安全性維護作業」之系統循序圖<br><br>
+3.「安全性維護作業」之循序圖<br><br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-3AFB8.png">
 <br><br>
-4.「玩家喜好分析」之系統循序圖<br><br>
+4.「玩家喜好分析」之循序圖<br><br>
 <img src="https://cacoo.com/diagrams/NXozh7qchzytFNMx-7FF5B.png">
+<br><br>
+5.「Pudding Crash」之系統循序圖<br><br>
+<img src="https://cacoo.com/diagrams/apGodGLXXvsrnPLs-EBF99.png">
+<br><br>
+<img src="https://cacoo.com/diagrams/apGodGLXXvsrnPLs-E70A4.png">
+<br><br>
+<img src="https://cacoo.com/diagrams/9FKIDo72z9M0itJX-2250A.png">
 <br><br>
 <a href="#content">回目錄</a><br>
 
